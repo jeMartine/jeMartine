@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Spring Web Flux, PostgreSQL**
+<!--- 🔭 I’m currently working on **Spring Web Flux, PostgreSQL** -->
 
 - 🌱 I’m currently learning **web development, network maintenance and configuration**
 
